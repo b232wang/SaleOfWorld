@@ -1,0 +1,9 @@
+Orgrimmar,1,Vol'Jin,5,10,6,18
+Undercity,2,Sylvanas,3,6,15,8
+Thunder-Bluff,3,Bain,10,12,3,7
+Silver-City,4,Lor'themar,2,11,2,6
+Stormwind,5,Varian,5,5,5,5
+Ironforge,6,Magny,2,4,7,5
+Darnassus,7,Tyrande,4,5,12,15
+Exodar,8,PVA,15,3,2,20
+Azeroth,9,THRALL,4,20,27,2
